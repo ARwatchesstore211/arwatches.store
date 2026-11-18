@@ -236,9 +236,23 @@ header {
 .hero-content {
   position: relative;
   z-index: 2;
-  color: var(--white);
+  color: #25231f;
   max-width: 540px;
   animation: fadeUp 0.8s ease-out both;
+}
+
+.hero-content::before {
+  content: "";
+  position: absolute;
+  inset: -20px;
+  z-index: -1;
+  border-radius: 8px;
+  background: linear-gradient(90deg, rgba(250,248,243,0.86), rgba(250,248,243,0.72) 72%, rgba(250,248,243,0));
+  pointer-events: none;
+}
+
+.hero .eyebrow {
+  color: #8b6b32;
 }
 
 .eyebrow {
@@ -258,7 +272,7 @@ header {
 
 .hero-desc {
   font-size: 16px;
-  color: rgba(255,255,255,0.88);
+  color: #48443d;
   margin-bottom: 28px;
   line-height: 1.7;
   max-width: 440px;
@@ -300,14 +314,14 @@ header {
 }
 
 .btn-outline {
-  background: transparent;
-  border: 1px solid rgba(255,255,255,0.45);
-  color: var(--white);
+  background: rgba(250,248,243,0.72);
+  border: 1px solid #8b6b32;
+  color: #25231f;
 }
 
 .btn-outline:hover {
-  border-color: var(--white);
-  background: rgba(255,255,255,0.08);
+  border-color: #6f5425;
+  background: rgba(250,248,243,0.92);
 }
 
 .btn-dark {
