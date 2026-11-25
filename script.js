@@ -27,11 +27,14 @@ const productCatalog = [
     price: 'Rs. 3,000',
     original: 'Rs. 4,500',
     badge: '33% Off',
-    image: 'assets/watches images/Tissot PRX/WhatsApp Image 2026-11-17 at 5.54.42 PM.jpeg',
+    image: 'assets/watches images/Tissot PRX/First.jpeg',
     images: [
-      'assets/watches images/Tissot PRX/WhatsApp Image 2026-11-17 at 5.54.42 PM.jpeg',
-      'assets/watches images/Tissot PRX/WhatsApp Image 2026-11-17 at 5.54.43 PM.jpeg',
-      'assets/watches images/Tissot PRX/WhatsApp Image 2026-11-17 at 5.54.44 PM.jpeg'
+      'assets/watches images/Tissot PRX/First.jpeg',
+      'assets/watches images/Tissot PRX/WhatsApp Image 2026-11-24 at 6.43.10 PM (1).jpeg',
+      'assets/watches images/Tissot PRX/WhatsApp Image 2026-11-24 at 6.43.10 PM.jpeg',
+      'assets/watches images/Tissot PRX/WhatsApp Image 2026-11-24 at 6.43.11 PM (1).jpeg',
+      'assets/watches images/Tissot PRX/WhatsApp Image 2026-11-24 at 6.43.11 PM (2).jpeg',
+      'assets/watches images/Tissot PRX/WhatsApp Image 2026-11-24 at 6.43.11 PM.jpeg'
     ],
     description: 'A silver Tissot PRX with a working date and stainless steel quality. Available dial choices include black, white and blue.',
     features: ['Watch: Tissot PRX', 'Color: Silver', 'Dial colors: Black, white or blue', 'Working date', 'Quality: Stainless steel', 'Total price: Rs. 4,500', 'Discount price: Rs. 3,000'],
@@ -53,11 +56,16 @@ const productCatalog = [
     price: 'Rs. 1,799',
     original: 'Rs. 3,000',
     badge: '40% Off',
-    image: 'assets/watches images/Cartier tank/WhatsApp Image 2026-11-17 at 5.58.37 PM (1).jpeg',
+    image: 'assets/watches images/Cartier tank/First.jpeg',
     images: [
-      'assets/watches images/Cartier tank/WhatsApp Image 2026-11-17 at 5.58.37 PM (1).jpeg',
-      'assets/watches images/Cartier tank/WhatsApp Image 2026-11-17 at 5.58.37 PM.jpeg',
-      'assets/watches images/Cartier tank/WhatsApp Image 2026-11-17 at 5.58.38 PM.jpeg'
+      'assets/watches images/Cartier tank/First.jpeg',
+      'assets/watches images/Cartier tank/WhatsApp Image 2026-11-24 at 6.40.35 PM (1).jpeg',
+      'assets/watches images/Cartier tank/WhatsApp Image 2026-11-24 at 6.40.37 PM (1).jpeg',
+      'assets/watches images/Cartier tank/WhatsApp Image 2026-11-24 at 6.40.37 PM.jpeg',
+      'assets/watches images/Cartier tank/WhatsApp Image 2026-11-24 at 6.40.38 PM (1).jpeg',
+      'assets/watches images/Cartier tank/WhatsApp Image 2026-11-24 at 6.40.38 PM.jpeg',
+      'assets/watches images/Cartier tank/WhatsApp Image 2026-11-24 at 6.40.39 PM.jpeg',
+      'assets/watches images/Cartier tank/WhatsApp Image 2026-11-24 at 6.40.40 PM.jpeg'
     ],
     description: 'A classic Cartier Tank style watch with a black leather strap, gold case and silver finish with blue hands.',
     features: ['Watch: Cartier Tank', 'Strap: Black leather', 'Case: Gold', 'Finish: Silver', 'Hands: Blue', 'Total price: Rs. 3,000', 'Discount price: Rs. 1,799'],
@@ -79,10 +87,14 @@ const productCatalog = [
     price: 'Rs. 1,799',
     original: 'Rs. 2,500',
     badge: '28% Off',
-    image: 'assets/watches images/tissot sport t/WhatsApp Image 2026-11-17 at 6.02.10 PM.jpeg',
+    image: 'assets/watches images/tissot sport t/First.jpeg',
     images: [
-      'assets/watches images/tissot sport t/WhatsApp Image 2026-11-17 at 6.02.10 PM.jpeg',
-      'assets/watches images/tissot sport t/WhatsApp Image 2026-11-17 at 6.02.11 PM.jpeg'
+      'assets/watches images/tissot sport t/First.jpeg',
+      'assets/watches images/tissot sport t/WhatsApp Image 2026-11-24 at 6.42.23 PM.jpeg',
+      'assets/watches images/tissot sport t/WhatsApp Image 2026-11-24 at 6.42.24 PM.jpeg',
+      'assets/watches images/tissot sport t/WhatsApp Image 2026-11-24 at 6.42.25 PM.jpeg',
+      'assets/watches images/tissot sport t/WhatsApp Image 2026-11-24 at 6.42.27 PM.jpeg',
+      'assets/watches images/tissot sport t/WhatsApp Image 2026-11-24 at 6.42.28 PM.jpeg'
     ],
     description: 'A Tissot Sport T watch with a brown leather strap, black and silver case styling, working date and radium hands.',
     features: ['Watch: Tissot Sport T', 'Strap: Brown leather', 'Case: Black and silver', 'Working date', 'Hands: Radium', 'Total price: Rs. 2,500', 'Discount price: Rs. 1,799'],
@@ -104,10 +116,17 @@ const productCatalog = [
     price: 'Rs. 2,250',
     original: 'Rs. 3,000',
     badge: '25% Off',
-    image: 'assets/watches images/Hublot strap watch/WhatsApp Image 2026-11-17 at 6.09.33 PM.jpeg',
+    image: 'assets/watches images/Hublot strap watch/First.jpeg',
     images: [
-      'assets/watches images/Hublot strap watch/WhatsApp Image 2026-11-17 at 6.09.33 PM.jpeg',
-      'assets/watches images/Hublot strap watch/WhatsApp Image 2026-11-17 at 6.09.34 PM.jpeg'
+      'assets/watches images/Hublot strap watch/First.jpeg',
+      'assets/watches images/Hublot strap watch/WhatsApp Image 2026-11-24 at 6.44.59 PM (1).jpeg',
+      'assets/watches images/Hublot strap watch/WhatsApp Image 2026-11-24 at 6.45.01 PM.jpeg',
+      'assets/watches images/Hublot strap watch/WhatsApp Image 2026-11-24 at 6.45.04 PM.jpeg',
+      'assets/watches images/Hublot strap watch/WhatsApp Image 2026-11-24 at 6.45.15 PM.jpeg',
+      'assets/watches images/Hublot strap watch/WhatsApp Image 2026-11-24 at 6.45.16 PM.jpeg',
+      'assets/watches images/Hublot strap watch/WhatsApp Image 2026-11-24 at 6.45.17 PM (1).jpeg',
+      'assets/watches images/Hublot strap watch/WhatsApp Image 2026-11-24 at 6.45.17 PM.jpeg',
+      'assets/watches images/Hublot strap watch/WhatsApp Image 2026-11-24 at 6.45.18 PM.jpeg'
     ],
     description: 'A chronographic Hublot strap watch with a working date, premium leather and silicone straps and a Hublot master lock.',
     features: ['Watch: Hublot Strap Watch', 'Design: Chronograph', 'Working date', 'Straps: Premium leather and silicone', 'Lock: Hublot master lock', 'Total price: Rs. 3,000', 'Discount price: Rs. 2,250'],
@@ -129,9 +148,13 @@ const productCatalog = [
     price: 'Rs. 2,250',
     original: '',
     badge: 'Featured',
-    image: 'assets/watches images/rivoli/WhatsApp Image 2026-11-17 at 6.17.54 PM.jpeg',
+    image: 'assets/watches images/rivoli/First.jpeg',
     images: [
-      'assets/watches images/rivoli/WhatsApp Image 2026-11-17 at 6.17.54 PM.jpeg'
+      'assets/watches images/rivoli/First.jpeg',
+      'assets/watches images/rivoli/WhatsApp Image 2026-11-24 at 6.37.33 PM (1).jpeg',
+      'assets/watches images/rivoli/WhatsApp Image 2026-11-24 at 6.37.33 PM (2).jpeg',
+      'assets/watches images/rivoli/WhatsApp Image 2026-11-24 at 6.37.34 PM.jpeg',
+      'assets/watches images/rivoli/WhatsApp Image 2026-11-24 at 6.37.35 PM.jpeg'
     ],
     description: 'A Rivoli watch with a gold case, working date and day, premium leather strap, radium hands and master lock.',
     features: ['Watch: Rivoli', 'Case: Gold', 'Working date and day', 'Strap: Premium leather', 'Hands: Radium', 'Lock: Master lock', 'Discount price: Rs. 2,250'],
@@ -153,12 +176,15 @@ const productCatalog = [
     price: 'Rs. 2,950',
     original: 'Rs. 4,200',
     badge: '30% Off',
-    image: 'assets/watches images/rolex/WhatsApp Image 2026-11-17 at 5.52.10 PM (1).jpeg',
+    image: 'assets/watches images/rolex/First.jpeg',
     images: [
-      'assets/watches images/rolex/WhatsApp Image 2026-11-17 at 5.52.10 PM (1).jpeg',
-      'assets/watches images/rolex/WhatsApp Image 2026-11-17 at 5.52.10 PM.jpeg',
-      'assets/watches images/rolex/WhatsApp Image 2026-11-17 at 5.52.11 PM.jpeg',
-      'assets/watches images/rolex/WhatsApp Image 2026-11-17 at 5.52.12 PM.jpeg'
+      'assets/watches images/rolex/First.jpeg',
+      'assets/watches images/rolex/WhatsApp Image 2026-11-24 at 6.43.58 PM.jpeg',
+      'assets/watches images/rolex/WhatsApp Image 2026-11-24 at 6.43.59 PM.jpeg',
+      'assets/watches images/rolex/WhatsApp Image 2026-11-24 at 6.44.00 PM.jpeg',
+      'assets/watches images/rolex/WhatsApp Image 2026-11-24 at 6.44.01 PM.jpeg',
+      'assets/watches images/rolex/WhatsApp Image 2026-11-24 at 6.44.02 PM.jpeg',
+      'assets/watches images/rolex/WhatsApp Image 2026-11-24 at 6.44.05 PM.jpeg'
     ],
     description: 'A premium Rolex-style two-tone watch with a silver and gold finish, working date display, stainless steel construction and water-resistant design.',
     features: ['Watch: Rolex', 'Color: Two-tone silver and gold', 'Working date display', 'Stainless steel', 'Water resistant', 'Total price: Rs. 4,200', 'Discount price: Rs. 2,950'],
